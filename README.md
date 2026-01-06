@@ -3,6 +3,9 @@
 ## Project Overview
 This project documents an internal IT security audit conducted for a simulated organization, Botium Toys. The audit evaluates the organization’s security posture, identifies risks and control gaps, and provides remediation recommendations to reduce operational, financial, and regulatory risk.
 
+*This project is based on the "Google Cybersecurity Certificate" course internal audit scenario (Botium Toys). All data and analysis are fictional and for educational purposes.*
+
+
 ## Audit Scope
 The audit covers on-premise systems, the online storefront, customer and payment data, employee access controls, and data related to EU customers. Third-party vendor internal systems and customer-owned devices are excluded from scope.
 
